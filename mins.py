@@ -18,5 +18,5 @@ def min3(*args):
 
 
 print(min1(23,4,5,6,2,4,66,1,5,))
-#print(min2("aa","bb","cc","dd"))   # err! < not supported str and tuple!
+#print(min2('abc','def',))          # err! < not supported str and tuple!
 print(min3([1,2],[3,4],[0,1]))

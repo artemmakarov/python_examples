@@ -8,5 +8,5 @@ bob = Person('Bob Smith')
 sue = Person('Sue Jones', job='dev', pay='10000')
 
 if __name__ == '__main__':
-print(bob.name, bob.pay)
-print(sue.name, sue.pay)	
+	print (bob.name, bob.pay)
+	print (sue.name, sue.pay)	
